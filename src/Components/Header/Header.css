@@ -1,0 +1,10 @@
+.padding_clr{
+    height: 30px;
+    padding: 9px;
+    background: lightgrey;
+}
+.mrg_right{
+    margin-right: 30px;
+    text-decoration: none;
+    color:black;
+}
