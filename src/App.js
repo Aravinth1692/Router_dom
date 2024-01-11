@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import {  Routes, Route } from "react-router-dom";
 import AllComponent from './Components/AllComponent/AllComponent';
 import DataScience from './Components/data_science/data_science';
 import Header from './Components/Header/Header';
